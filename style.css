@@ -1,0 +1,510 @@
+.top-bar {
+    background-color: #e85992!important;
+    text-align: center;
+    color: white;
+    font-size: 13px;
+    height: 28px;
+    letter-spacing: 1.5px;
+    font-family: system-ui;
+}
+.top-bar p {
+    padding-top: 4px;
+}
+li.nav-item.dropdown {
+    text-decoration: underline;
+}
+li.nav-item.dropdown:hover {
+    text-decoration: 3px solid underline;
+}
+li.nav-item:hover {
+    text-decoration: 3px solid underline;
+}
+.navbar-one.container-fluid {
+    margin-top: -24px;
+    background: #ffffff;
+    height: 90px;
+    border-bottom: 1px solid lightgray;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0 0 0 / 82%);
+}
+form.d-flex {
+    margin-left: 35pc;
+}
+form.d-flex i {
+    font-size: 22px;
+}
+form.d-flex a {
+    margin-top: 15px;
+    font-size: 12px;
+    text-align: -webkit-center;
+    color: black;
+    text-decoration: none;
+    font-weight: 200;
+    font-family: math;
+}
+a.cart {
+    margin-left: 30px;
+}
+
+h1.head {
+    margin: 0.4rem 0;
+    font-size: 1.6rem;
+    font-weight: 600;
+    line-height: 1.44;
+    letter-spacing: 1px;
+    color: #000;
+    text-align: center;
+    font-family: auto;
+}
+h1.shop-pooja {
+    font-size: 21px;
+    margin-bottom: 10px;
+    font-family: auto;
+    text-align: center;
+    font-weight: 600;
+}
+span.conduct {
+    font-size: 12.5px;
+    font-weight: 500;
+    line-height: 1.67;
+    letter-spacing: 0.4px;
+    color: #525252;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+     margin-left: -20px;
+     font-family: sans-serif;
+}
+p.pooja-items {
+    font-size: 12.5px;
+    font-weight: 500;
+    line-height: 1.67;
+    letter-spacing: 0.4px;
+    color: #525252;
+    margin-top: 25px;
+    margin-bottom: 0rem;
+    line-height: 25px;
+    margin-left: -20px;
+    font-family: sans-serif;
+}
+p.pooja-boxes{
+    font-size: 12.5px;
+    font-weight: 500;
+    line-height: 1.67;
+    letter-spacing: 0.4px;
+    color: #525252;
+    margin-top: 40px;
+    margin-bottom: 0rem;
+    line-height: 25px;
+    margin-left: -20px;
+    font-family: sans-serif;
+}
+h1.redefine {
+    font-size: 19px;
+    margin-bottom: 10px;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: -20px;
+    font-family: auto;
+}
+p.serving{
+    font-size: 12.5px;
+    font-weight: 500;
+    line-height: 1.67;
+    letter-spacing: 0.4px;
+    color: #525252;
+    margin-top: 20px;
+    margin-bottom: 0rem;
+    line-height: 25px;
+    margin-left: -20px;
+    font-family: sans-serif;
+}
+p.surprise{
+    font-size: 12.5px;
+    font-weight: 500;
+    line-height: 1.67;
+    letter-spacing: 0.4px;
+    color: #525252;
+    margin-top: 20px;
+    margin-bottom: 0rem;
+    line-height: 25px;
+    margin-left: -20px;
+    font-family: sans-serif;
+}
+h1.completeness{
+    font-size: 19px;
+    margin-bottom: 10px;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: -20px;
+    font-family: auto;
+}
+p.important{
+    font-size: 12.5px;
+    font-weight: 500;
+    line-height: 1.67;
+    letter-spacing: 0.4px;
+    color: #525252;
+    margin-top: 20px;
+    margin-bottom: 0rem;
+    line-height: 25px;
+    margin-left: -20px;
+    font-family: sans-serif;
+}
+span.conduct a {
+    text-decoration: none;
+    color: #cd0000;
+}
+p.pooja-items a {
+    text-decoration: none;
+}
+p.pooja-boxes a {
+    text-decoration: none;
+    color: #cd0000;
+}
+p.important a{
+     text-decoration: none;
+    color: #cd0000;
+}
+a.show_hide{
+  text-decoration: none;
+    color: #cd0000;
+    margin-left: -20px;   
+}
+.one {
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+    width: 100%;
+}
+
+.one img {
+    max-width: 100%;
+    transition: all 0.3s;
+    display: block;
+    width: 100%;
+    height: 100%;
+    transform: scale(1);
+}
+
+.one:hover img {
+    transform: scale(1.1);
+}
+
+.rupee {
+    margin-top: -30px;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.rupee i {
+    filter: drop-shadow(3px 3px 2px black);
+}
+.rupee span {
+    text-decoration: line-through;
+}
+.one a {
+    text-decoration: none;
+}
+.rupee p {
+    margin-top: 20px;
+    color: black;
+    font-size: 13px;
+}
+.rupee button.btn {
+    background: #d3134f;
+    margin-top: -27px;
+    width: 100%;
+    height: 30px;
+    border-radius: 0px;
+    color: white;
+    font-size: 13px;
+}
+.two {
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+    width: 100%;
+}
+.two img {
+    max-width: 100%;
+    transition: all 0.3s;
+    display: block;
+    width: 100%;
+    height: 100%;
+    transform: scale(1);
+}
+
+.two:hover img {
+    transform: scale(1.1);
+}
+.two a {
+    text-decoration: none;
+}
+
+.three {
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+    width: 100%;
+}
+.three img {
+    max-width: 100%;
+    transition: all 0.3s;
+    display: block;
+    width: 100%;
+    height: 100%;
+    transform: scale(1);
+}
+
+.three:hover img {
+    transform: scale(1.1);
+}
+.three a {
+    text-decoration: none;
+}
+
+.four {
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+    width: 100%;
+}
+.four img {
+    max-width: 100%;
+    transition: all 0.3s;
+    display: block;
+    width: 100%;
+    height: 100%;
+    transform: scale(1);
+}
+
+.four:hover img {
+    transform: scale(1.1);
+}
+.four a {
+    text-decoration: none;
+}
+
+.five {
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+    width: 100%;
+}
+.five img {
+    max-width: 100%;
+    transition: all 0.3s;
+    display: block;
+    width: 100%;
+    height: 100%;
+    transform: scale(1);
+}
+
+.five:hover img {
+    transform: scale(1.1);
+}
+.five a {
+    text-decoration: none;
+}
+
+.six {
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+    width: 100%;
+}
+.six img {
+    max-width: 100%;
+    transition: all 0.3s;
+    display: block;
+    width: 100%;
+    height: 100%;
+    transform: scale(1);
+}
+
+.six:hover img {
+    transform: scale(1.1);
+}
+.six a {
+    text-decoration: none;
+}
+button.btn.btn-disable {
+    background: #f24c80;
+    width: 100%;
+    border-radius: 0px;
+    color: white;
+    font-family: system-ui;
+}
+.speedy p i {
+    font-size: 30px;
+    color: darkgray;
+}
+.speedy span {
+    font-size: 10px;
+}
+.speedy {
+    text-align: -webkit-center;
+    margin-top: 40px;
+    border-right: 1px solid;
+}
+.upper-border {
+    border-top: 1px solid lightgray;
+}
+.speedy {
+    text-align: -webkit-center;
+    margin-top: 40px;
+    border-right: 1px solid lightslategray;
+}
+
+
+.cash p i {
+    font-size: 30px;
+    color: darkgray;
+}
+.cash span {
+    font-size: 10px;
+}
+.cash {
+    text-align: -webkit-center;
+    margin-top: 40px;
+    border-right: 1px solid;
+}
+.cash {
+    text-align: -webkit-center;
+    margin-top: 40px;
+    border-right: 1px solid lightslategray;
+}
+
+.returns p i {
+    font-size: 30px;
+    color: darkgray;
+}
+.returns span {
+    font-size: 10px;
+}
+.returns {
+    text-align: -webkit-center;
+    margin-top: 40px;
+}
+.returns {
+    text-align: -webkit-center;
+    margin-top: 40px;
+}
+.footer.mt-2 {
+    background: #FFAFB6;
+    height: 580px;
+}
+.icons {
+    text-align: center;
+}
+.icons img {
+    margin-left: 7pc;
+        margin-top: -40px;
+         filter: drop-shadow(0px 0px 0px white);
+}
+.face {
+    border: 1px solid white;
+    width: 120px;
+    text-align: center;
+    margin-left: 60px;
+    margin-top: -15px;
+    border-radius: 3px;
+    height: 30px;
+    padding: 1px;
+}
+.face i {
+    color: white;
+}
+.insta {
+    border: 1px solid white;
+    width: 140px;
+    text-align: center;
+    margin-top: -30px;
+    float: right;
+    border-radius: 3px;
+    height: 30px;
+    padding: 1px;
+}
+.insta i {
+    color: white;
+}
+.info h1 {
+    color: white;
+    font-size: 18px;
+    margin-top: 35px;
+    margin-left: 40px;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+}
+ul.link-one li {
+    padding: 6px;
+    list-style: none;
+}
+ul.link-one li a {
+    text-decoration: none;
+    color: white;
+}
+ul.link-one li a:hover {
+    text-decoration: underline;
+    text-underline-position: under;
+}
+
+.my-box h1 {
+    color: white;
+    font-size: 18px;
+    margin-top: 35px;
+    margin-left: 40px;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+}
+ul.link-two li {
+    padding: 6px;
+    list-style: none;
+}
+ul.link-two li a {
+    text-decoration: none;
+    color: white;
+}
+ul.link-two li a:hover {
+    text-decoration: underline;
+    text-underline-position: under;
+}
+
+.customer-care h1 {
+    color: white;
+    font-size: 18px;
+    margin-top: 35px;
+    margin-left: 40px;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+}
+ul.link-three li {
+    padding: 6px;
+    list-style: none;
+    color: white;
+}
+ul.link-three li a {
+    text-decoration: none;
+    color: white;
+}
+
+
+    .app-icon img {
+    width: 114px;
+    margin-left: 25px;
+}
+.app-icon {
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.app-icon span {
+    color: white;
+}
+.futer {
+    float: right;
+    margin-right: 50px;
+    margin-top: 100px;
+    color: white;
+    font-size: 13px;
+}
